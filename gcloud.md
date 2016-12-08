@@ -4,6 +4,10 @@ List all my accounts:
 
 `gcloud auth list`
 
+Set the active account:
+
+`gcloud config set account <ACCOUNT_NAME>`
+
 List all my configurations:
 
 `gcloud config configurations list`
