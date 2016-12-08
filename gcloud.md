@@ -24,6 +24,10 @@ Set configuration project property:
 
 `gcloud config set project <PROJECT_NAME>`
 
+Prevent deployment from setting the default application version:
+
+`gcloud config set app/promote_by_default false`
+
 Deploy AppEngine App:
 
 `gcloud app deploy -v <VERSION_NAME>`
