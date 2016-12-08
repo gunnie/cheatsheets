@@ -8,6 +8,10 @@ List all my configurations:
 
 `gcloud config configurations list`
 
+List details of current configuration:
+
+`gcloud config list`
+
 Create configuration:
 
 `gcloud config configurations create <CONFIG_NAME>`
