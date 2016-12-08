@@ -31,3 +31,11 @@ Prevent deployment from setting the default application version:
 Deploy AppEngine App:
 
 `gcloud app deploy -v <VERSION_NAME>`
+
+Alternative way to deploy an AppEngine app:
+
+`gcloud app deploy ~/my_app/app.yaml`
+
+Deploying multiple AppEngine services:
+
+`gcloud app deploy ~/my_app/app.yaml ~/my_app/another_service.yaml`
