@@ -8,9 +8,9 @@ Run a detached (-d) container that exposes port 3000:
 
 `docker run -p 80:3000 -d gunnie/example`
 
-Build an image:
+Build an image based on Docker file in current directory:
 
-`docker build -t gunnie/example`
+`docker build . -t gunnie/example`
 
 List all containers:
 
