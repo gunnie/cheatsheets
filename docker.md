@@ -27,3 +27,7 @@ To remove a container:
 To remove images:
 
 `docker rmi <IMAGE ID>`
+
+Logging by streaming the output from the running container’s STDOUT and STDERR:
+
+`docker logs --follow`
