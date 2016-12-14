@@ -30,4 +30,4 @@ To remove images:
 
 Logging by streaming the output from the running container’s STDOUT and STDERR:
 
-`docker logs <CONTAINER ID> --follow`
+`docker logs --follow <CONTAINER ID>`
