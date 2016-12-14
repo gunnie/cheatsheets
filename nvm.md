@@ -25,4 +25,6 @@ Set an alias for a specific release:
 `nvm alias my-alias <VERSION>`
 
 
-Thx to https://michael-kuehnel.de/node.js/2015/09/08/using-vm-to-switch-node-versions.html
+##More Info
+
+A good article can be found at https://michael-kuehnel.de/node.js/2015/09/08/using-vm-to-switch-node-versions.html
