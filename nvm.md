@@ -23,3 +23,6 @@ Reinstall global packages contained in <VERSION> to the current version in use:
 Set an alias for a specific release:
 
 `nvm alias my-alias <VERSION>`
+
+
+Thx to https://michael-kuehnel.de/node.js/2015/09/08/using-vm-to-switch-node-versions.html
