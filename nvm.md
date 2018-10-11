@@ -1,4 +1,4 @@
-#Node Version Manager
+# Node Version Manager
 
 Install the latest v5.x.x release of node:
 
@@ -25,6 +25,6 @@ Set an alias for a specific release:
 `nvm alias my-alias <VERSION>`
 
 
-##More Info
+## More Info
 
 A good article can be found at https://michael-kuehnel.de/node.js/2015/09/08/using-vm-to-switch-node-versions.html
