@@ -1,4 +1,4 @@
-##Docker commands
+## Docker commands
 
 Use a base image to run a container that we can interact with (-i):
 
